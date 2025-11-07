@@ -55,7 +55,7 @@
 <p align="center">
   <a href="mailto:mateo.talentdev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/@erikerik116" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://t.me/@mateosoul" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://discordapp.com/users/1436353452853821604" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
   &nbsp;&nbsp;
