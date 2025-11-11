@@ -19,26 +19,6 @@
 
 - Contributed to internal documentation on Solana security best practices and common exploit patterns.
 
-## 📌 Featured Projects
-
-### DeFi Staking Protocol
-- A complete staking platform built on Solana. Users can lock their SPL tokens to earn rewards. Features Program Derived Addresses (PDAs) for secure state management and stake authorization.
-
-- Tech: Rust, Anchor, TypeScript, Solana CLI
-
-- Live Demo
-
-### NFT Marketplace v2
-- Enhanced a Metaplex Certified NFT Marketplace with custom on-chain escrow functionality for peer-to-peer trades.
-
-- Tech: Rust, Metaplex, Anchor, Next.js, Phantom Wallet integration
-
-- Live Demo
-
-### On-Chain Voting System
-- A simple DApp demonstrating a decentralized voting mechanism where token holders can vote on proposals. It uses the System Program and Token Program for account creation and token validation.
-
-- Tech: Native Rust, JavaScript, solana-web3.js
 
 ## 🌱 Currently Learning & Exploring
 - Advanced Solana program security audits and formal verification techniques.
