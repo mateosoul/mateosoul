@@ -38,7 +38,7 @@ Building an automated prediction market trading system featuring:
 
 If you are interested in my work, please feel free to contact me anytime.
 
-Telegram : [@mateosoul](https://t.me/mateosoul) 
+Telegram : [@mateosoul](https://telegram.me/mateosoul) 
 
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
